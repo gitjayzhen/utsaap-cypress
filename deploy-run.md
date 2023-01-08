@@ -4,7 +4,6 @@
 1.docker环境  
 2.docker-compose
 
-
 ## 一、docker方式
 
 [内容](https://github.com/bahmutov/demo-docker-cypress-included)
@@ -14,6 +13,7 @@ docker run -it -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:5.2.0
 ```
 
 ## 二、docker-compose方式
+
 ### 基础cypress-example-docker-compose-included 
 
 [github](https://circleci.com/gh/cypress-io/cypress-example-docker-compose-included/tree/master)
