@@ -1,0 +1,29 @@
+{
+    "env":{
+        "db": {
+            "host":"10.*.*.*",
+            "user":"root",
+            "password":"123456ws",
+            "database":"DriverAuto"
+        }
+    },
+    "video": false,
+    "chromeWebSecurity": false ,
+    "reporter": "mochawesome",
+    "X-Frame-Options": "deny",
+    "reporterOptions": {
+        "reportDir": "out/results",
+        "overwrite": false,
+        "html": true,
+        "json": false,
+        "timestamp": "mmddyyyy_HHMMss"
+    },
+    "projectId": "r4eyq4",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B202 Safari/604.1",
+    "userAgent1":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36",
+    "viewportWidth1": 320,
+    "viewportHeight1": 568,
+    "screenshotsFolder": "out/screenshots",
+    "videosFolder": "out/videos",
+    "pageLoadTimeout": 30000
+}

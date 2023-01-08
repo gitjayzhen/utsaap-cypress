@@ -1,0 +1,2 @@
+"id","query","selector_type","selector","excepted","group_id","url","method","confidence","query_info","UA_id","test_user","dev_user","pm_user","base_url","actions","blank_confidence"
+"189585","游记","css selector","div[id*=""test_vr_70019705""]","","35","http://192.168.1.1/web/searchList.jsp?keyword=%E6%B8%B8%E8%AE%B0&pid=","sift","95.0000","70019705_15174","1","jayzhen","jayzhen","jayzhen","http://192.168.1.1/web/searchList.jsp?keyword=%E6%B8%B8%E8%AE%B0&pid=",\N,\N
